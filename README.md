@@ -41,18 +41,5 @@ Check out my repo for the latest updates and features!
 ---
 
 <div align="center">
-  <svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
-    <path id="flow" fill="#2196f3" fill-opacity="0.8">
-      <animate attributeName="d" dur="8s" repeatCount="indefinite"
-        values="
-          M0,60 C300,120 900,0 1200,60 L1200,120 L0,120 Z;
-          M0,90 C400,0 800,120 1200,90 L1200,120 L0,120 Z;
-          M0,60 C300,120 900,0 1200,60 L1200,120 L0,120 Z
-        "
-      />
-    </path>
-    <text x="50%" y="70" text-anchor="middle" fill="white" stroke="black" stroke-width="2" font-size="36" font-family="Segoe UI, monospace">
-      <tspan>Elegance flows from creativity.</tspan>
-    </text>
-  </svg>
+  <img src="src/wave.svg" alt="Elegance flows from creativity" >/
 </div>.
