@@ -7,7 +7,6 @@
 
 * 🌍  I'm on [Planet Earth](https://music.youtube.com/watch?v=w8DnglbKq1M9)
 * 🖥️  See my portfolio at [T0liver . hu](http://toliver.hu)
-* ✉️  You can contact me at [contact@me.hu](mailto:contact@me.hu)
 * 🚀  I'm currently working on [ViNet](http://github.com/T0liver/ViNet)
 * 🧠  I'm currently learning Android, KMP, AI/ML
 * 👥  I'm looking to collaborate on a open-source android app publish on F-Droid
